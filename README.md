@@ -3,6 +3,8 @@
 Explorador educativo del sistema solar en español. Abre `index.html` directamente en un navegador moderno; no necesita compilación ni dependencias.
 
 - Ocho planetas; selección, animación, velocidad, pausa, zoom y arrastre.
+- Vista cercana artística de cada planeta, con zoom independiente y giro al arrastrar.
+- Modo de cinco constelaciones con selección, zoom y desplazamiento. Son esquemas ilustrativos, no un mapa del cielo según ubicación o fecha.
 - Diseño adaptable a móvil y escritorio.
 - Un solo HTML autocontenido (sin texturas, fuentes ni bibliotecas externas).
 
